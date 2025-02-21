@@ -1,8 +1,4 @@
-# OIBSIP
-
 Data Analytics Projects Repository : This repository contains 3 data analytics projects focused on predictive modeling and segmentation :
-
-These projects are assigned to me as a Data Analytics intern at : https://oasisinfobyte.com/
 
 1. WINE QUALITY PREDICTION :  A machine learning project to predict wine quality based on various chemical properties.
  
